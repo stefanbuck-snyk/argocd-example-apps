@@ -11,7 +11,7 @@ spec:
   template:
     metadata:
       labels:
-        foo: 1
+        foo: "1"
         app: guestbook-ui
     spec:
       containers:
